@@ -1,10 +1,6 @@
-Folder containing the Electronic Army Serial Number Merged File, ca. 1938 - 1946
-
-The four links from https://catalog.archives.gov/id/1263923 give the four raw files.
+Download ASNEF.FIN.zip from the Electronic Records link at https://catalog.archives.gov/id/1263923 
+Download cl_2046.csv from https://aad.archives.gov/aad/popup-codelist.jsp?cl_id=2046&dt=893&c_id=24982
 
 in raw_downloads:
 	- ASNEF.FIN.zip is the zipped .dat file that actually has the enlistment data.
-	- 100.1ND_NC.pdf is the beginning of the technical documentation.
-	- 100.1CL_SD.pdf is the code list (VERY USEFUL!).
-	- ASNF_TSS.pdf is a certificate with the dates of the version download.
-
+	- cl_2046.csv is a birthplace code crosswalk 
